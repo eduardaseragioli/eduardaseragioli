@@ -11,13 +11,9 @@
 
 ##
 </div>
+<p align="left">
+  <img src="https://badge.mediaplus.ma/landscapes/eseragio?1337Badge=off&UM6P=off" height="400" style="display:inline-block; margin-right:20px; border-radius:15px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhsejd5MWpzajI0dTl0dWYzYW9qZzV0NjZ1bWk5NHE5a243NGc0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuQI0IYqADwfm/giphy.gif" height="270" style="display:inline-block; border-radius:15px;" />
+</p>
 
-###
 
-<img align="left" height="400" src="https://badge.mediaplus.ma/landscapes/eseragio?1337Badge=off&UM6P=off"/>
-
-###
-
-<img align="left" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhsejd5MWpzajI0dTl0dWYzYW9qZzV0NjZ1bWk5NHE5a243NGc0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuQI0IYqADwfm/giphy.gif"  />
-
-###
