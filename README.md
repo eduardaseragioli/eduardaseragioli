@@ -17,3 +17,31 @@
 </p>
 
 
+
+<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px; margin-left: 300px; align-items: center;">
+
+  <a href="https://github.com/eduardaseragioli/libft">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft.webp">
+  </a>
+
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp">
+
+   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
+
+   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+   
+
+  <!--
+  <a href="https://github.com/danielleseragioli/ft_printf">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
+  </a>
+
+  <a href="https://github.com/danielleseragioli/get_next_line">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+  </a>
+
+</div>
+
+--!>
+
+
