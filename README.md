@@ -20,16 +20,31 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px; margin-left: 300px; align-items: center;">
 
+  <a href="https://github.com/eduardaseragioli/piscine-42">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_pin.png">
+  </a>
+  
+  <a href="https://github.com/eduardaseragioli/piscine-reloaded">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_reloaded_pin.png">
+  </a>
+  
   <a href="https://github.com/eduardaseragioli/libft">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
   </a>
 
-  <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png">
-
+  <a href="https://github.com/eduardaseragioli/printf">
    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png">
+  </a>
 
+  <a href="https://github.com/eduardaseragioli/get_next_line">
    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png">
-   
+  </a>
+
+  <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png">
+  
+
+
+
 
   <!--
   <a href="https://github.com/danielleseragioli/ft_printf">
