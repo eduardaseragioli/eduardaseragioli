@@ -21,14 +21,14 @@
 <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px; margin-left: 300px; align-items: center;">
 
   <a href="https://github.com/eduardaseragioli/libft">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft.webp">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
   </a>
 
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp">
+  <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png">
 
-   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
+   <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png">
 
-   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+   <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png">
    
 
   <!--
