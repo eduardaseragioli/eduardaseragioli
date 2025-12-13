@@ -12,32 +12,49 @@
 ##
 
 
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eduardaseragioli/piscine-42">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_pin.png">
+      </a><br>
+      <p>piscine 42</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eduardaseragioli/piscine-reloaded">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_reloaded_pin.png">
+      </a><br>
+      <p>piscine reloaded </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eduardaseragioli/libft">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
+      </a><br>
+      <p>libft</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eduardaseragioli/printf">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png">
+      </a><br>
+      <p>printf</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eduardaseragioli/get_next_line">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png">
+      </a><br>
+      <p>get next line</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png"><br>
+      <p>born 2 be root</p>
+    </td>
+  </tr>
+</table>
 
 
-<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px; margin-left: 300px; align-items: center;">
-
-  <a href="https://github.com/eduardaseragioli/piscine-42">
-    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_pin.png">
-  </a>
-  
-  <a href="https://github.com/eduardaseragioli/piscine-reloaded">
-    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_reloaded_pin.png">
-  </a>
-  
-  <a href="https://github.com/eduardaseragioli/libft">
-    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
-  </a>
-
-  <a href="https://github.com/eduardaseragioli/printf">
-   <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png">
-  </a>
-
-  <a href="https://github.com/eduardaseragioli/get_next_line">
-   <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png">
-  </a>
-
-  <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png">
-  
 
 
 
